@@ -1,0 +1,4 @@
+Course 1: Credits = 78, Grade = 7
+Course 2: Credits = 66, Grade = 5
+Course 3: Credits = 88, Grade = 7
+CGPA: 6.43103
